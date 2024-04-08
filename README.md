@@ -19,7 +19,7 @@ This is a simple browser-based to-do list application built using ES6 JavaScript
 
 ```bash
 bashCopy code
-git clone https://github.com/yourusername/browser-todo-list.git
+https://github.com/imnishantnirala/ToDo-List-App-Javascript.git
 
 ```
 
